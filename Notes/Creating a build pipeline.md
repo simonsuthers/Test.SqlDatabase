@@ -78,3 +78,19 @@ In the pop-up, press run:
 <img src="./Pictures/BuildPipeline/Build14.png" width="20%" height="20%">
 
 ## Implementing Continuous Integration
+In the main pipeline window, click on the pipeline:
+
+<img src="./Pictures/BuildPipeline/Build15.png" width="50%" height="50%">
+
+Click Edit to edit the pipeline
+
+<img src="./Pictures/BuildPipeline/Build16.png" width="50%" height="50%">
+
+Click on the triggers tab:
+
+<img src="./Pictures/BuildPipeline/Build17.png" width="50%" height="50%">
+
+Check the box **Enable continuous integration**, then click on save:
+
+<img src="./Pictures/BuildPipeline/Build18.png" width="50%" height="50%">
+
