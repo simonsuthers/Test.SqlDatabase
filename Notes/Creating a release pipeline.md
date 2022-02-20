@@ -61,6 +61,7 @@ Set the dacpac file location to the location in the artifact. Also set the serve
 <img src="./Pictures/ReleasePipeline/Release15.png" width="50%" height="50%">
 
 ## Enable Continuous Deployment
+To enable continuous deployment, click on the lightening symbol for the artifact:
 
 <img src="./Pictures/ReleasePipeline/Release05.png" width="50%" height="50%">
 
