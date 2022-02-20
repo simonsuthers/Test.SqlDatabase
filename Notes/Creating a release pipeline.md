@@ -11,4 +11,24 @@ A release pipeline implements Continuous Delivery/Deployment. It can automatical
 
 Go to Pipelines, then click on create pipeline::
 
-<img src="./Pictures/BuildPipeline/Build01.png" width="50%" height="50%">
+<img src="./Pictures/ReleasePipeline/Release01.png" width="50%" height="50%">
+
+<img src="./Pictures/ReleasePipeline/Release02.png" width="50%" height="50%">
+
+<img src="./Pictures/ReleasePipeline/Release03.png" width="50%" height="50%">
+
+<img src="./Pictures/ReleasePipeline/Release04.png" width="50%" height="50%">
+
+<img src="./Pictures/ReleasePipeline/Release05.png" width="50%" height="50%">
+
+<img src="./Pictures/ReleasePipeline/Release06.png" width="50%" height="50%">
+
+<img src="./Pictures/ReleasePipeline/Release07.png" width="50%" height="50%">
+
+<img src="./Pictures/ReleasePipeline/Release08.png" width="50%" height="50%">
+
+<img src="./Pictures/ReleasePipeline/Release09.png" width="50%" height="50%">
+
+<img src="./Pictures/ReleasePipeline/Release10.png" width="50%" height="50%">
+
+<img src="./Pictures/ReleasePipeline/Release11.png" width="50%" height="50%">
