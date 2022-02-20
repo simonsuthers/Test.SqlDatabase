@@ -6,7 +6,7 @@
 
 <img src="https://github.com/simonsuthers/Test.SqlDatabase/blob/master/Notes/Pictures/Environments/Environment03.png" width="50%" height="50%">
 
-<img src="https://github.com/simonsuthers/Test.SqlDatabase/blob/master/Notes/Pictures/Environments/Environment04.png" width="50%" height="50%">
+<img src="https://github.com/simonsuthers/Test.SqlDatabase/blob/master/Notes/Pictures/Environments/Environment04.png" width="25%" height="25%">
 
 <img src="https://github.com/simonsuthers/Test.SqlDatabase/blob/master/Notes/Pictures/Environments/Environment05.png" width="50%" height="50%">
 
