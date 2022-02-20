@@ -8,12 +8,14 @@ Go to github settings
 
 <img src="./Pictures/01GithubSettings.png" width="50%" height="50%">
 
+In settings, find developer settings:
+
 <img src="./Pictures/02GithubDeveloperSettings.png" width="50%" height="50%">
-<img src="https://github.com/simonsuthers/Test.SqlDatabase/blob/master/Notes/Pictures/02GithubDeveloperSettings.png" width="50%" height="50%">
 
-<img src="https://github.com/simonsuthers/Test.SqlDatabase/blob/master/Notes/Pictures/03GithubCreatePAT.png" width="50%" height="50%">
 
-<img src="https://github.com/simonsuthers/Test.SqlDatabase/blob/master/Notes/Pictures/05GithubTokenScope.png" width="50%" height="50%">
+<img src="./Pictures/03GithubCreatePAT.png" width="50%" height="50%">
+
+<img src="./Pictures/05GithubTokenScope.png" width="50%" height="50%">
 
 ## Import Repo to Azure
 
