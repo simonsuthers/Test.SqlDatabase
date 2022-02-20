@@ -65,4 +65,6 @@ To enable continuous deployment, click on the lightening symbol for the artifact
 
 <img src="./Pictures/ReleasePipeline/Release05.png" width="50%" height="50%">
 
+Check the box to enable the Continuous deployment trigger:
+
 <img src="./Pictures/ReleasePipeline/Release06.png" width="50%" height="50%">
