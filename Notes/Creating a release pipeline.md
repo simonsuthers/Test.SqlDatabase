@@ -73,14 +73,23 @@ Go to the Releases main page, click on the Release and press the button **Create
 
 <img src="./Pictures/ReleasePipeline/Release16.png" width="50%" height="50%">
 
+Click on the stage to override the continuous integration and execute manually:
+
 <img src="./Pictures/ReleasePipeline/Release17.png" width="50%" height="50%">
 
+In the main page, click on the stage created:
 
 <img src="./Pictures/ReleasePipeline/Release18.png" width="50%" height="50%">
 
+Press the deploy button:
+
 <img src="./Pictures/ReleasePipeline/Release19.png" width="50%" height="50%">
 
+In the pop-ip, press deploy:
+
 <img src="./Pictures/ReleasePipeline/Release20.png" width="50%" height="50%">
+
+The deployment logs page will provide feedback on how the deployment is progressing:
 
 <img src="./Pictures/ReleasePipeline/Release21.png" width="50%" height="50%">
 
