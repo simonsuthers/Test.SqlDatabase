@@ -2,7 +2,7 @@
 
 Deployment groups create a tunnel between Azure Devops and a deployment machine
 
-- [ Creating a deployment group](# Creating a deployment group)
+- [Creating a deployment group](#Creating a deployment group)
 - [Adding a tag to the deployment group](#Adding-a-tag-to-the-deployment-group)
 - [Setting the user for the deployment group](#Setting-the-user-for-the-deployment-group)
 
