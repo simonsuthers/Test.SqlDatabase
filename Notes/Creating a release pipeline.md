@@ -3,8 +3,8 @@
 A release pipeline implements Continuous Delivery/Deployment. It can automatically deploy code to a database when it is checked in, as long as it meets the criteria set out in Continuous Integration.
 
 - [Creating a release pipeline](#Creating-a-release-pipeline)
-  - [Add the Continuous Integration Artifact]##(Add-the-Continuous-Integration-Artifact) 
-  - [Add deployment target]##(Add-deployment-target) 
+  - [Add the Continuous Integration Artifact](#Add-the-Continuous-Integration-Artifact) 
+  - [Add deployment target](#Add-deployment-target) 
 - [Enable Continuous Deployment](#Enable-Continuous-Deployment)
 - [Run the build pipeline](#Run-the-build-pipeline)
 - [Implementing Continuous Integration](#Implementing-Continuous-Integration)
