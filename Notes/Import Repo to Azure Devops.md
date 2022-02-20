@@ -16,10 +16,10 @@ Go to github settings
 
 ## Import Repo to Azure
 
-<img src="https://github.com/simonsuthers/Test.SqlDatabase/blob/master/Notes/Pictures/ImportRepo01.png" width="50%" height="50%">
+<img src="https://github.com/simonsuthers/Test.SqlDatabase/blob/master/Notes/Pictures/ImportRepo01.png" width="25%" height="25%">
 
-<img src="https://github.com/simonsuthers/Test.SqlDatabase/blob/master/Notes/Pictures/ImportRepo02.png" width="50%" height="50%">
+<img src="https://github.com/simonsuthers/Test.SqlDatabase/blob/master/Notes/Pictures/ImportRepo02.png" width="25%" height="25%">
 
-<img src="https://github.com/simonsuthers/Test.SqlDatabase/blob/master/Notes/Pictures/ImportRepo03.png" width="50%" height="50%">
+<img src="https://github.com/simonsuthers/Test.SqlDatabase/blob/master/Notes/Pictures/ImportRepo03.png" width="25%" height="25%">
 
 
