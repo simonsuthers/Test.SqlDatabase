@@ -2,6 +2,6 @@
 
 ## Create Github PAT
 Go to github settings
-![Github settings](./pictures/01GithubSettings.png?)
+![Github settings](./Pictures/01GithubSettings.png?)
 
 
