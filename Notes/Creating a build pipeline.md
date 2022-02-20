@@ -40,3 +40,5 @@ Go Deployment Groups and click on create:
 <img src="./Pictures/BuildPipeline/Build12.png" width="50%" height="50%">
 
 <img src="./Pictures/BuildPipeline/Build13.png" width="50%" height="50%">
+
+<img src="./Pictures/BuildPipeline/Build14.png" width="50%" height="50%">
