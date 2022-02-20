@@ -1,5 +1,12 @@
 # Test.SqlDatabase
 
+## Implementing Azure Devops CI/CD
+
+- Import Repo from Github
+- Setting up a Deployment Group
+- Setting up a build pipeline
+- Setting up a release pipeline
+
 CD References:
 https://jpvelasco.com/deploying-a-sql-server-database-onto-an-on-prem-server-using-azure-devops/
 
