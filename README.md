@@ -3,7 +3,7 @@
 ## Implementing Azure Devops CI/CD
 
 - [Import Repo from Github](Notes/Import%20Repo%20from%20Github%20to%20Azure%20Devops.md)
-- Setting up a Deployment Group
+- [Setting up a Deployment Group](Notes/Creating%20a%20deployment%20group.md)
 - Setting up a build pipeline
 - Setting up a release pipeline
 
