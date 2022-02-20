@@ -8,6 +8,17 @@
 ## Create Github PAT
 Go to github settings
 
-<img src="https://github.com/simonsuthers/Test.SqlDatabase/blob/master/Notes/Pictures/DeploymentGroups/DeploymentGroup01.png" width="50%" height="50%">
-
 <img src="./Pictures/DeploymentGroups/DeploymentGroup01.png" width="50%" height="50%">
+
+<img src="./Pictures/DeploymentGroups/DeploymentGroup02.png" width="50%" height="50%">
+
+<img src="./Pictures/DeploymentGroups/DeploymentGroup03.png" width="50%" height="50%">
+
+<img src="./Pictures/DeploymentGroups/DeploymentGroup04.png" width="50%" height="50%">
+
+<img src="./Pictures/DeploymentGroups/DeploymentGroup05.png" width="50%" height="50%">
+
+<img src="./Pictures/DeploymentGroups/DeploymentGroup06.png" width="50%" height="50%">
+
+<img src="./Pictures/DeploymentGroups/DeploymentGroup07.png" width="50%" height="50%">
+
