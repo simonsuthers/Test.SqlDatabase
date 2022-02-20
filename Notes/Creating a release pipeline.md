@@ -6,8 +6,7 @@ A release pipeline implements Continuous Delivery/Deployment. It can automatical
   - [Add the Continuous Integration Artifact](#Add-the-Continuous-Integration-Artifact) 
   - [Add deployment target](#Add-deployment-target) 
 - [Enable Continuous Deployment](#Enable-Continuous-Deployment)
-- [Run the build pipeline](#Run-the-build-pipeline)
-- [Implementing Continuous Integration](#Implementing-Continuous-Integration)
+- [Create manual release](#Create-manual-release)
 
 ## Creating a release pipeline
 ### Add the Continuous Integration Artifact
@@ -68,3 +67,22 @@ To enable continuous deployment, click on the lightening symbol for the artifact
 Check the box to enable the Continuous deployment trigger:
 
 <img src="./Pictures/ReleasePipeline/Release06.png" width="50%" height="50%">
+
+## Create manual release
+Go to the Releases main page, click on the Release and press the button **Create Release**:
+
+<img src="./Pictures/ReleasePipeline/Release16.png" width="50%" height="50%">
+
+<img src="./Pictures/ReleasePipeline/Release17.png" width="50%" height="50%">
+
+
+<img src="./Pictures/ReleasePipeline/Release18.png" width="50%" height="50%">
+
+<img src="./Pictures/ReleasePipeline/Release19.png" width="50%" height="50%">
+
+<img src="./Pictures/ReleasePipeline/Release20.png" width="50%" height="50%">
+
+<img src="./Pictures/ReleasePipeline/Release21.png" width="50%" height="50%">
+
+<img src="./Pictures/ReleasePipeline/Release22.png" width="50%" height="50%">
+
